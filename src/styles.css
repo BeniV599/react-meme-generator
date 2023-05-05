@@ -1,0 +1,14 @@
+body {
+  background-color: #200019;
+  align-items: center;
+  text-align: center;
+}
+h1 {
+  color: #6900cc;
+}
+button {
+  height: 40px;
+}
+select {
+  font-weight: bold;
+}
